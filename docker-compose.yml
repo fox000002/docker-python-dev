@@ -1,0 +1,5 @@
+awslinux:
+   image: myawslinux
+   ports:
+     - 27017:27017
+
